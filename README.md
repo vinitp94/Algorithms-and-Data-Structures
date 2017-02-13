@@ -1,6 +1,6 @@
 # Algorithms and Data Structures
 
-This repository contains Ruby implementations of the most commonly known data structures and algorithms in computer science.
+This repository contains test-driven Ruby implementations of the most commonly known data structures and algorithms in computer science.
 
 - [Dynamic and Static Arrays][arrays]
 - [Heaps][heaps]
@@ -8,8 +8,8 @@ This repository contains Ruby implementations of the most commonly known data st
 - [Quicksort][quicksort]
 - [Binary Search Trees][bst]
 
-[arrays]: ./Dynamic:Static Arrays
+[arrays]: ./Dynamic:StaticArrays
 [heaps]: ./Heaps
-[hashmaps]: ./Hashmaps and Linked Lists
+[hashmaps]: ./Hashmaps:LinkedLists
 [quicksort]: ./Quicksort
 [bst]: ./AVL:BST
