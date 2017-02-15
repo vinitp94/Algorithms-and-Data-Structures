@@ -7,9 +7,11 @@ This repository contains test-driven Ruby implementations of the most commonly k
 - [Hashmaps and Linked Lists][hashmaps]
 - [Quicksort][quicksort]
 - [Binary Search Trees][bst]
+- [Topological Sort][topsort]
 
 [arrays]: ./Dynamic:StaticArrays
 [heaps]: ./Heaps
 [hashmaps]: ./Hashmaps:LinkedLists
 [quicksort]: ./Quicksort
 [bst]: ./AVL:BST
+[topsort]: ./TopologicalSort
