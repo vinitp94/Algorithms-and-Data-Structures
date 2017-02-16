@@ -8,6 +8,7 @@ This repository contains test-driven Ruby implementations of the most commonly k
 - [Quicksort][quicksort]
 - [Binary Search Trees][bst]
 - [Topological Sort][topsort]
+- [Dijkstra's Algorithm][dijkstra]
 
 [arrays]: ./Dynamic:StaticArrays
 [heaps]: ./Heaps
@@ -15,3 +16,4 @@ This repository contains test-driven Ruby implementations of the most commonly k
 [quicksort]: ./Quicksort
 [bst]: ./AVL:BST
 [topsort]: ./TopologicalSort
+[dijkstra]: ./Dijkstra
