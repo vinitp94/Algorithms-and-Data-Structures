@@ -9,6 +9,7 @@ This repository contains test-driven Ruby implementations of the most commonly k
 - [Binary Search Trees][bst]
 - [Topological Sort][topsort]
 - [Dijkstra's Algorithm][dijkstra]
+- [Dynamic Programming][dp]
 
 [arrays]: ./Dynamic:StaticArrays
 [heaps]: ./Heaps
@@ -17,3 +18,4 @@ This repository contains test-driven Ruby implementations of the most commonly k
 [bst]: ./AVL:BST
 [topsort]: ./TopologicalSort
 [dijkstra]: ./Dijkstra
+[dp]: ./DynamicProgramming
